@@ -1,13 +1,23 @@
 # Hellrasher Music Studio
 
-[Stáhnout Windows instalačku 0.2.77](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/latest/download/Hellrasher-Music-Studio-0.2.77-Setup.exe) · [Poznámky k vydání](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/latest)
+Windows studio pro tvorbu videoklipů z hudby, příběhu a AI scén.
 
-Jedna instalačka pro HMS Free i Pro. Free umožňuje dokončit celý videoklip; export a stažení scén mají nejvýše 720p a vypálené logo Music Studio, finální klip navíc závěrečné logo. Pro odemkne čistý export, vyšší rozlišení, stažení titulků a nastavení jejich vzhledu podle platné licence.
+## Stáhnout HMS 0.2.78
 
-Instalačka 0.2.77 obsahuje oranžový světlý motiv, historická a folková písma, nové titulkové efekty a chráněná pracovní videa. Generativní modely/API si uživatel připojuje vlastní; offline analýza skladby má přibalený runtime.
+[**Stáhnout instalačku pro Windows 64-bit**](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.78/Hellrasher-Music-Studio-0.2.78-Setup.exe)
 
-Aplikace a instalačka jsou digitálně podepsané vlastním certifikátem HMS. Ten nemá veřejnou CA důvěru, proto Windows/SmartScreen může zobrazit varování. Aktualizátor kontroluje hash i přesný podpisový certifikát. Ze starých instalací je potřeba jednou přejít novou instalačkou ručně, potom HMS používá tento veřejný aktualizační kanál bez GitHub účtu.
+[Poznámky k vydání](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.78)
 
-Tento repozitář obsahuje jen distribuční soubory; zdrojový kód, projekty, média, přístupové údaje a soukromé klíče se zde nezveřejňují.
+Jedna instalačka obsahuje **Free i Pro**. Free umožňuje tvořit a upravovat videoklip; export má nejvýše 3 minuty včetně závěrečného loga, 720p a vypálený vodoznak s původním logem HMS. Každá samostatně stažená video scéna má také 720p, vypálené logo a nejvýše 3 minuty. Pro odemyká delší a čistý výstup, vyšší rozlišení, stažení SRT a vzhled titulků podle licence.
 
-[Podpora](https://hellrasher.cz) · obchod@hellrasher.cz
+Nově průvodce pro začátečníky, plynulý zoom obrázků, výraznější hudební mapa a timeline, úpravy workflow modelů a větší instalátor s povinným souhlasem s českými nebo anglickými podmínkami před instalací.
+
+Aktualizace HMS používají tento veřejný kanál bez GitHub přihlášení. Kontrolu najdete v Nastavení. Stažení a instalaci spouští uživatel; aplikace kontroluje hash i přesný digitální podpis a před instalací ukládá projekt. Starší instalace používající původní soukromý kanál potřebují jednorázově ruční instalaci tohoto balíčku.
+
+Instalačka má vlastní digitální podpis HMS a časové razítko. Certifikát nemá veřejnou důvěru certifikační autority; Windows/SmartScreen proto může při ruční instalaci varovat. Kontrolní součty jsou v [SHA256SUMS.txt](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/latest/download/SHA256SUMS.txt).
+
+Před aktualizací uložte projekt. Zálohujte celou projektovou složku včetně `.hms-video-key.dpapi`; šifrovaná pracovní videa jsou vázaná na původní Windows profil. Vlastní generativní modely a případné cloudové kredity se nastavují samostatně.
+
+Tento repozitář obsahuje distribuční soubory. Zdrojový kód zůstává soukromý. Microsoft Store je připravovaná samostatná distribuce.
+
+Podpora: [obchod@hellrasher.cz](mailto:obchod@hellrasher.cz) · [hellrasher.cz](https://hellrasher.cz)
