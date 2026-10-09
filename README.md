@@ -2,11 +2,11 @@
 
 Filmové studio pro hudební videa. Jedna Windows x64 aplikace pro Free i Pro.
 
-**[Stáhnout HMS 0.2.83](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.83/Hellrasher-Music-Studio-0.2.83-Setup.exe)** · [Poznámky k vydání a kontrolní součty](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/latest)
+**[Stáhnout HMS 0.2.84](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.84/Hellrasher-Music-Studio-0.2.84-Setup.exe)** · [Poznámky k vydání a kontrolní součty](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/latest)
 
-Aktualizaci otevřete v **Nastavení → Aktualizace HMS**. Instalátor ověřuje stávající podpis HMS a chrání uložené projekty. Před instalací aktualizace nechte dokončit probíhající úlohy.
+Aktualizaci otevřete v **Nastavení → Aktualizace HMS**. Aktualizátor ověřuje stávající podpis HMS. Před instalací aktualizace nechte dokončit probíhající úlohy.
 
-V této verzi: hromadné obrázky ve Studiu, postupný render obrázků i videí s viditelnou aktuální scénou a průběhem, jednodušší a lehčí zoom, zlatý tmavý motiv a oranžový světlý motiv.
+V této verzi: obnovení přípravy Directora po restartu, pokračování od chybějících promptů, zachování uložených médií a zpřístupnění editoru Studia až po dokončené kontrole a uložení. Výslovná ruční tvorba a pozdější úpravy hotového projektu zůstávají dostupné.
 
 Free umožňuje vytvoření videoklipu a export do 720p s logem HMS, nejvýše 3 minuty včetně závěrečného loga. Pro zpřístupňuje čistý export a další možnosti. Dostupnost AI závisí na připojených modelech a účtu jejich poskytovatele.
 
