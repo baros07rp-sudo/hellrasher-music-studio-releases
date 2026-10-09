@@ -1,17 +1,11 @@
 # Hellrasher Music Studio
 
-Filmové studio pro hudební videa. Jedna Windows x64 aplikace pro Free i Pro.
+Filmové studio pro hudební videa. Jedna aplikace pro Free i Pro, lokální modely a připojení k podporovaným AI službám.
 
-**[Stáhnout HMS 0.2.84](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.84/Hellrasher-Music-Studio-0.2.84-Setup.exe)** · [Poznámky k vydání a kontrolní součty](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/latest)
+[Stáhnout HMS 0.2.85 pro Windows x64](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.85/Hellrasher-Music-Studio-0.2.85-Setup.exe) · [Co je nového](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.85)
 
-Aktualizaci otevřete v **Nastavení → Aktualizace HMS**. Aktualizátor ověřuje stávající podpis HMS. Před instalací aktualizace nechte dokončit probíhající úlohy.
+Verze 0.2.85 přidává popisy a HW profily lokálních modulů, editaci uložených obrázků, uspořádané obrazové reference H3 a Kandinsky Lite Distill pro video z textu nebo obrázku. SkyReels zůstává experimentální. Podpora fyzické 8GB GPU není deklarovaná jako ověřená. Konkrétní požadavky a rozsah ověření se zobrazují v aplikaci.
 
-V této verzi: obnovení přípravy Directora po restartu, pokračování od chybějících promptů, zachování uložených médií a zpřístupnění editoru Studia až po dokončené kontrole a uložení. Výslovná ruční tvorba a pozdější úpravy hotového projektu zůstávají dostupné.
+Aktualizace stávající aplikace: **Nastavení → Aktualizace HMS**. Instalačka používá stávající vlastní podpisový certifikát HMS s časovým razítkem. Windows může zobrazit upozornění, protože nejde o certifikát veřejné certifikační autority.
 
-Free umožňuje vytvoření videoklipu a export do 720p s logem HMS, nejvýše 3 minuty včetně závěrečného loga. Pro zpřístupňuje čistý export a další možnosti. Dostupnost AI závisí na připojených modelech a účtu jejich poskytovatele.
-
-Aplikace i instalačka jsou digitálně podepsané vlastním certifikátem HMS s časovým razítkem. Certifikát nemá veřejnou CA důvěru, proto Windows může zobrazit upozornění.
-
-[Web HMS](https://hellrasher.cz/products/hellrasher-music-studio-pro) · Podpora: obchod@hellrasher.cz
-
-Tento repozitář obsahuje pouze instalační a aktualizační soubory. Zdrojový kód HMS zůstává soukromý.
+Generativní modely se instalují samostatně a mají vlastní licenční podmínky. Zdrojový kód HMS zůstává soukromý; tento repozitář obsahuje zákaznické instalačky a aktualizační metadata.
