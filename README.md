@@ -1,11 +1,11 @@
 # Hellrasher Music Studio
 
-Filmové studio pro hudební videa. Jedna aplikace pro Free i Pro, lokální modely a připojení k podporovaným AI službám.
+Windows studio pro tvorbu hudebních videoklipů. Aktuální verze **0.2.86**.
 
-[Stáhnout HMS 0.2.85 pro Windows x64](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.85/Hellrasher-Music-Studio-0.2.85-Setup.exe) · [Co je nového](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.85)
+[Stáhnout instalačku pro Windows 64 bitů](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.86/Hellrasher-Music-Studio-0.2.86-Setup.exe) · [Co je nového](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.86)
 
-Verze 0.2.85 přidává popisy a HW profily lokálních modulů, editaci uložených obrázků, uspořádané obrazové reference H3 a Kandinsky Lite Distill pro video z textu nebo obrázku. SkyReels zůstává experimentální. Podpora fyzické 8GB GPU není deklarovaná jako ověřená. Konkrétní požadavky a rozsah ověření se zobrazují v aplikaci.
+Nově přehlednější popisy lokálních modelů a doporučeného počítače, hudební a vokální vrstvy ve Studiu, přiřazení zpěváků k postavám, navazující akční záběry a časovaný plán kamery podle hudby. Analýza a generované záběry zůstávají pod kontrolou uživatele. SkyReels je experimentální a nemá potvrzený kompletní provoz na 16GB kartě.
 
-Aktualizace stávající aplikace: **Nastavení → Aktualizace HMS**. Instalačka používá stávající vlastní podpisový certifikát HMS s časovým razítkem. Windows může zobrazit upozornění, protože nejde o certifikát veřejné certifikační autority.
+Stávající uživatelé mohou použít **Nastavení → Aktualizace HMS**. Novější verze nahrazuje předchozí instalaci; projekty, média, nastavení a stažené modely zachovává.
 
-Generativní modely se instalují samostatně a mají vlastní licenční podmínky. Zdrojový kód HMS zůstává soukromý; tento repozitář obsahuje zákaznické instalačky a aktualizační metadata.
+Tento repozitář obsahuje pouze zákaznické instalační soubory, kontrolní součty a informace o vydání. Zdrojový kód je soukromý. Licenční podmínky aplikace a použitých komponent jsou součástí balíčku.
