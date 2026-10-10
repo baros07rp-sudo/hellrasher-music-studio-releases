@@ -1,15 +1,13 @@
 # Hellrasher Music Studio
 
-Filmové studio pro hudební videa na Windows 64 bitů.
+[Stáhnout HMS 0.2.89 pro Windows 64 bitů](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.89/Hellrasher-Music-Studio-0.2.89-Setup.exe)
 
-## Aktuální verze 0.2.88
+[Co je nového](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.89)
 
-[Stáhnout HMS 0.2.88](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.88/Hellrasher-Music-Studio-0.2.88-Setup.exe) · [Poznámky k vydání](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.88)
+Jednodušší analýza skladby, volitelné přiřazení postav ke zpěvu a společné emocionální vedení příběhu. HMS dál rozhoduje automaticky; vaše ruční volby mají přednost.
 
-Nově přesnější lokální analýza českého zpěvu, zachování vloženého textu a nadpisů částí skladby, kontrola časování podle zvuku a automatické návrhy hlasových úseků. Stejné podklady používá Studio a tvorba promptů. Nejisté výsledky lze opravit; bezchybný přepis ani časování nejsou zaručené.
+V aplikaci použijte **Nastavení → Aktualizace HMS**. Projekty, média, nastavení a stažené modely zůstávají zachované.
 
-Po aktualizaci otevřete projekt → **Song → Přesnější · český zpěv → Znovu analyzovat skladbu**. Při prvním použití HMS připraví větší lokální nástroje. Rychlá základní analýza zůstává dostupná.
+Přepis, časování a automatické návrhy mohou vyžadovat kontrolu. Kompletní nově generovaný klip není tímto vydáním ověřený. SkyReels zůstává experimentální.
 
-HMS PRO nabízí hlášení problému přímo ze Studia, kontrolovaný snímek aktuální aplikace, očištěnou diagnostiku a přehled požadavků s odpovědí našeho týmu. Původní hudba, projekty, média, nastavení a stažené modely zůstávají zachované.
-
-V HMS použijte **Nastavení → Aktualizace HMS**. Tento repozitář obsahuje zákaznické instalační balíčky a metadata aktualizací; zdrojový kód je soukromý.
+Tento repozitář obsahuje instalační balíčky a informace o vydání. Zdrojový kód HMS je vedený odděleně v soukromém repozitáři.
