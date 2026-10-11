@@ -1,13 +1,13 @@
 # Hellrasher Music Studio
 
-[Stáhnout HMS 0.2.89 pro Windows 64 bitů](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.89/Hellrasher-Music-Studio-0.2.89-Setup.exe)
+Windows aplikace pro tvorbu hudebních videoklipů.
 
-[Co je nového](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.89)
+Aktuální verze: **0.2.90** — jednodušší Studio a opravené zapnutí LTX lip-syncu.
 
-Jednodušší analýza skladby, volitelné přiřazení postav ke zpěvu a společné emocionální vedení příběhu. HMS dál rozhoduje automaticky; vaše ruční volby mají přednost.
+- [Stáhnout aktuální instalačku](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/download/v0.2.90/Hellrasher-Music-Studio-0.2.90-Setup.exe)
+- [Co je nového](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.90)
+- [Web Hellrasher](https://hellrasher.cz)
 
-V aplikaci použijte **Nastavení → Aktualizace HMS**. Projekty, média, nastavení a stažené modely zůstávají zachované.
+Aktualizaci můžete také spustit přímo v HMS v Nastavení → Aktualizace HMS. Zachovává vaše projekty a nainstalované modely.
 
-Přepis, časování a automatické návrhy mohou vyžadovat kontrolu. Kompletní nově generovaný klip není tímto vydáním ověřený. SkyReels zůstává experimentální.
-
-Tento repozitář obsahuje instalační balíčky a informace o vydání. Zdrojový kód HMS je vedený odděleně v soukromém repozitáři.
+Tento repozitář obsahuje pouze distribuční soubory. Zdrojový kód, zákaznická diagnostika a uživatelské projekty nejsou veřejné.
