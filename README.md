@@ -1,11 +1,11 @@
 # Hellrasher Music Studio
 
-Aktuální verze: **0.2.93**
+Aktuální verze: **0.2.94**
 
-Rozhraní využívá šířku okna, Creative DNA a videokoncept zobrazují celé texty. Opravené přiřazení postavy k řádkům písně a jejímu záběru ve Studiu. Kompaktní panel titulků se rozbalí po zapnutí; titulky jsou dostupné pouze v HMS PRO.
+Director lépe zachovává schválený příběh, návaznost postav a rekvizit a časování zpívajících postav. Startovací obrázek a video prompt na sebe navazují. Vše pracuje automaticky bez dalších povinných nastavení.
 
 Použijte aktualizátor v HMS. Tento repozitář obsahuje pouze distribuční soubory; zdrojový kód je soukromý.
 
-[Poznámky k vydání](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.93)
+[Poznámky k vydání](https://github.com/baros07rp-sudo/hellrasher-music-studio-releases/releases/tag/v0.2.94)
 
-K dispozici jsou podepsané instalační soubory pro Windows a metadata pro aktualizátor. Projekty, média, modely a uložená nastavení se zachovávají. Automatický Director zůstává výchozí a nové generativní váhy se automaticky nestahují.
+Projekty, média, modely a uložená nastavení se zachovávají. Nové modelové soubory nejsou potřeba. Krátký skutečný render byl ověřen na RTX 5060 Ti 16 GB; celý nový klip a vícehlasý lip-sync vyžadují další pilotní ověření.
